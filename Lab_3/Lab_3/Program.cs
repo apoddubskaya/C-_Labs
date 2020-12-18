@@ -8,7 +8,6 @@ namespace Lab_3
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
 			
 			Ratio b = new Ratio(10, 2);
 			Ratio a = new Ratio(2, 7);
